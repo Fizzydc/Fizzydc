@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fizzydc
 - 👀 I’m interested in creating a portfolio website
-- 🌱 I’m currently learning html and css
+- 🌱 I’m currently learning Javascript 
 - 💞️ I’m looking to collaborate on some project
 - 📫 How to reach me 
 through mail: muideenfaruq709@gmail.com
